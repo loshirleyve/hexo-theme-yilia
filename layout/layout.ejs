@@ -4,9 +4,11 @@
     <canvas id="anm-canvas" class="anm-canvas"></canvas>
     <div class="left-col" q-class="show:isShow">
       <%- partial('_partial/left-col', null, {cache: !config.relative_link}) %>
+      <a href="https://github.com/loshirleyve"><img style="position: absolute; top: 0; left: 0; border: 0;z-index: 1;" src="/img/forkme_left_gray_6d6d6d.png" alt="Fork me on GitHub"></a>
     </div>
     <div class="mid-col" q-class="show:isShow,hide:isShow|isFalse">
-      <%- partial('_partial/mobile-nav', null, {cache: !config.relative_link}) %>
+      <%- partial('_partial/mobile-nav', null, {cache
+         : !config.relative_link}) %>
       <div id="wrapper" class="body-wrap">
         <div class="menu-l">
           <div class="canvas-wrap">

@@ -11,11 +11,12 @@
 		<% if (theme.subtitle){ %>
 		<p class="header-subtitle"><%=theme.subtitle%></p>
 		<%}%>
-
 		<nav class="header-menu">
-			<ul>
+			<ul style="text-align: left;">
 			<% for (var i in theme.menu){ %>
-				<li><a href="<%- url_for(theme.menu[i]) %>"><%= i %></a></li>
+				<li><img
+            src="<%= theme.menu_icons[i] %>"
+            alt="">&nbsp;<a href="<%- url_for(theme.menu[i]) %>"><%= i %></a></li>
 	        <%}%>
 			</ul>
 		</nav>
@@ -33,5 +34,5 @@
 		        <%}%>
 			</div>
 		</nav>
-	</header>		
+	</header>
 </div>
