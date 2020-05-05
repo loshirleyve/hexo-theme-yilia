@@ -97,7 +97,7 @@ subnav:
   #jianshu: "#"
   #douban: "#"
   #segmentfault: "#"
-  #bilibili: "#"
+  bilibili: "#"
   #acfun: "#"
   #mail: "mailto:litten225@qq.com"
   #facebook: "#"
