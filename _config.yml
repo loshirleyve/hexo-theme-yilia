@@ -7,6 +7,7 @@ menu:
   书单: /books
   每日反思: /think
   EMF: /tags/EMF
+  V8: /tags/V8
 
 menu_icons:
   主页: 'https://cdn2.iconfinder.com/data/icons/jetflat-buildings/90/008_001_home_apartment_house_building-16.png'
@@ -14,7 +15,8 @@ menu_icons:
   分类&标签: 'https://cdn1.iconfinder.com/data/icons/financial-shopping-2/512/tag-16.png'
   书单: 'https://cdn3.iconfinder.com/data/icons/flaturici-set-1/512/openbook-16.png'
   每日反思: 'https://cdn0.iconfinder.com/data/icons/people-symbols-icons-rounded/110/Thinker-16.png'
-  EMF: 'http://q1gs2pwb3.bkt.clouddn.com/icon_emf.png'
+  EMF: 'data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAJ1BMVEUAAAAOky4Pky0MkywOki4OlC4Pky8OkS4Nky0Nky4Nky0Oky4Oky62r9GbAAAADHRSTlMAf1VA2LCJgHZOv6WfgZ2JAAAAP0lEQVQI12OAA2ZBMDBgYFQAcZkEGBghEiDGkTAo4wBM5Hgn1xkog5EHKsXIDVXMyMiAoh1kMJII3AqEpTAAAADmCcyJxIB/AAAAAElFTkSuQmCC'
+  V8: 'data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAV1BMVEUAAAARltsRldsRltsRltsSltsSltwSltsSldsSltsSltsSltsSltsSltwSltsSltsSldkTltwSl90SmNsOmeISltoRltsRl9wSldoTldoVldwXl9wSltsTvKwCAAAAHHRSTlMAvz/L6qOJ9Ne1neXEw6yqgF9TKhHtlHZvKSQWurDyrAAAAHZJREFUGNNtz1cOwzAMA1Ba3tmrm/c/Z+UiLoIg74vQBwnhmjys6z74MWoOVMNcMhaNTWqBNjcaF6AnfbaAdSvZQwlv7+h9vCfKXvNkEcXUjY6cJtILdo4jMJKoEkvp4RBIY3Qd1cuy2PC3Dc7lFUchnN8T4NoXYPwHE0Io374AAAAASUVORK5CYII='
 
 # SubNav
 subnav:
